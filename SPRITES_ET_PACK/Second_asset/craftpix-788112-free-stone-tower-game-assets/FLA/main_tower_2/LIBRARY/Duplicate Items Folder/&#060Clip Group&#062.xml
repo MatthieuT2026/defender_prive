@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Duplicate Items Folder/&amp;#060Clip Group&amp;#062" itemID="5a7ae321-000002f6" lastModified="1518018536">
+  <timeline>
+    <DOMTimeline name="&amp;#060Clip Group&amp;#062">
+      <layers>
+        <DOMLayer name="Isolation Mode" color="#FF6600" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="flash0.ai Assets_3/Isolation Mode/&amp;#060Clip Group&amp;#062">
+                  <matrix>
+                    <Matrix tx="-0.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="76" y="35.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

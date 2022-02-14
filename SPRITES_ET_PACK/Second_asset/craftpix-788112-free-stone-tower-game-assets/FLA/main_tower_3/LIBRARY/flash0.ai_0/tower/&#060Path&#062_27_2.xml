@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flash0.ai_0/tower/&amp;#060Path&amp;#062_27_2" itemID="5a79d061-00000206" lastModified="1517932641">
+  <timeline>
+    <DOMTimeline name="&amp;#060Path&amp;#062_27_2">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#2D2424"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!354 13[273 20 231 21!231 21[158 23 112 6!112 6[86 -3 62 1!62 1[37 5 23 23!23 23[11 29 4 40!4 40[-2 53 2 66!2 66[8 84 17 92!17 92[37 138 119 160!119 160[162 170 213 168!213 168|258 165!258 165[270 166 288 163!288 163|290 168!290 168[304
+ 207 341 206!341 206[378 205 392 168!392 168[408 132 406 86!406 86[413 60 399 37!399 37[384 12 354 13"/>
+                    <Edge cubics="!354 13(;277,18 184,32 112,6q354 13Q273 20q231 21Q158 23q112 6);"/>
+                    <Edge cubics="!112 6(;79,-6 42,-2 23,23q112 6Q86 -3q62 1Q37 5q23 23);"/>
+                    <Edge cubics="!23 23(;7,30 -4,48 2,66q23 23Q11 29q4 40Q-2 53q2 66);"/>
+                    <Edge cubics="!2 66(;6,78 10,86 17,92q2 66Q8 84q17 92);"/>
+                    <Edge cubics="!17 92(;33,130 81,150 119,160q17 92Q37 138q119 160);"/>
+                    <Edge cubics="!119 160(;150,167 182,169 213,168q119 160Q162 170q213 168);"/>
+                    <Edge cubics="!213 168(;226,167 242,167 258,165q213 168 258 165);"/>
+                    <Edge cubics="!258 165(;267,166 277,165 288,163q258 165Q270 166q288 163);"/>
+                    <Edge cubics="!288 163(;288,165 289,166 290,168q288 163 290 168);"/>
+                    <Edge cubics="!290 168(;309,220 373,217 392,168q290 168Q304 207q341 206Q378 205q392 168);"/>
+                    <Edge cubics="!392 168(;404,140 407,114 406,86q392 168Q408 132q406 86);"/>
+                    <Edge cubics="!406 86(;415,54 396,11 354,13q406 86Q413 60q399 37Q384 12q354 13);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

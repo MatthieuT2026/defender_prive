@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flash0.ai_5/tower/&amp;#060Clip Group&amp;#062_1" itemID="5a7ae2bb-00000257" lastModified="1518017741">
+  <timeline>
+    <DOMTimeline name="&amp;#060Clip Group&amp;#062_1">
+      <layers>
+        <DOMLayer name="Isolation Mode" color="#FF6600" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="flash0.ai Assets_0/Isolation Mode/&amp;#060Clip Group&amp;#062">
+                  <transformationPoint>
+                    <Point x="75.45" y="35.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

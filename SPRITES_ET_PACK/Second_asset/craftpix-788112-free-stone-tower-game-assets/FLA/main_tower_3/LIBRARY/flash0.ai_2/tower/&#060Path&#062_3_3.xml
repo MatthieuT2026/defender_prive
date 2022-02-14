@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flash0.ai_2/tower/&amp;#060Path&amp;#062_3_3" itemID="5a79ea94-0000034c" lastModified="1517939348">
+  <timeline>
+    <DOMTimeline name="&amp;#060Path&amp;#062_3_3">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#1C1B1A"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!315 76[306 50 281 38!281 38[254 11 211 4!211 4[166 -4 116 1!116 1[51 8 29 38!29 38[22 47 20 56!20 56[7 58 2 72!2 72[-4 86 7 97!7 97|15 104!15 104|21 108!21 108[60 138 119 143!119 143[157 162 199 164!199 164[244 166 279 149!279 149[302
+ 147 314 135!314 135[344 103 315 76"/>
+                    <Edge cubics="!315 76(;309,58 296,45 281,38q315 76Q306 50q281 38);"/>
+                    <Edge cubics="!281 38(;262,19 235,8 211,4q281 38Q254 11q211 4);"/>
+                    <Edge cubics="!211 4(;167,-4 62,-7 29,38q211 4Q166 -4q116 1Q51 8q29 38);"/>
+                    <Edge cubics="!29 38(;24,44 21,51 20,56q29 38Q22 47q20 56);"/>
+                    <Edge cubics="!20 56(;4,59 -9,81 7,97q20 56Q7 58q2 72Q-4 86q7 97);"/>
+                    <Edge cubics="!7 97(;10,99 12,101 15,104q7 97 15 104);"/>
+                    <Edge cubics="!15 104(;17,106 19,107 21,108q15 104 21 108);"/>
+                    <Edge cubics="!21 108(;52,132 84,140 119,143q21 108Q60 138q119 143);"/>
+                    <Edge cubics="!119 143(;168,167 231,173 279,149q119 143Q157 162q199 164Q244 166q279 149);"/>
+                    <Edge cubics="!279 149(;293,148 305,144 314,135q279 149Q302 147q314 135);"/>
+                    <Edge cubics="!314 135(;336,112 332,92 315,76q314 135Q344 103q315 76);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

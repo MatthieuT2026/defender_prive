@@ -1,0 +1,34 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flash0.ai_0/tower/&amp;#060Path&amp;#062_22_1" itemID="5a79d061-00000204" lastModified="1517932641">
+  <timeline>
+    <DOMTimeline name="&amp;#060Path&amp;#062_22_1">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#1D2121"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!764 136[748 74 670 45!670 45[631 31 537 17!537 17[416 -1 290 0!290 0[82 3 52 74!52 74[24 70 7 101!7 101[-11 133 11 161!11 161[84 255 220 288!220 288[271 324 347 338!347 338[415 351 477 341!477 341[519 334 570 317!570 317[635 295 676
+ 267!676 267[786 224 764 136"/>
+                    <Edge cubics="!764 136(;739,41 613,28 537,17q764 136Q748 74q670 45Q631 31q537 17);"/>
+                    <Edge cubics="!537 17(;478,8 99,-38 52,74q537 17Q416 -1q290 0Q82 3q52 74);"/>
+                    <Edge cubics="!52 74(;16,69 -19,122 11,161q52 74Q24 70q7 101Q-11 133q11 161);"/>
+                    <Edge cubics="!11 161(;64,229 138,268 220,288q11 161Q84 255q220 288);"/>
+                    <Edge cubics="!220 288(;292,339 400,353 477,341q220 288Q271 324q347 338Q415 351q477 341);"/>
+                    <Edge cubics="!477 341(;521,334 615,309 676,267q477 341Q519 334q570 317Q635 295q676 267);"/>
+                    <Edge cubics="!676 267(;732,245 781,205 764,136q676 267Q786 224q764 136);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
