@@ -12,11 +12,13 @@
     #include <SFML/Audio.h>
     #include <stdbool.h>
 
-    static const int ERROR = 84;
-    static const int SUCCESS = 0;
-    static const int WIDTH = 1280;
-    static const int HEIGHT = 720;
-    static const int BPP = 32;
+static const int ERROR = 84;
+static const int SUCCESS = 0;
+static const int WIDTH = 1280;
+static const int HEIGHT = 720;
+static const int BPP = 32;
+static const int FPS = 50;
+
 
 struct s_sprite
 {
@@ -68,12 +70,16 @@ typedef struct s_window window_t;
 
 struct s_mydefender
 {
-    window_t s_window;
+    window_t window_t;
     sfEvent event;
     assets_t assets;
-    sfClock *clock;
+    sfClock *main_clock;
     bool in_game;
 };
-typedef struct s_mydefender my_defender_t
+typedef struct s_mydefender my_defender_t;
+
+void manage_events(my_defender_t *main_struct);
+void launch(my_defender_t *main_struct);
+void initialize(my_defender_t *main_struct);
 
 #endif
