@@ -19,7 +19,6 @@ static const int HEIGHT = 720;
 static const int BPP = 32;
 static const int FPS = 50;
 
-
 struct s_sprite
 {
     sfSprite *sprite;
